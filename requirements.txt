@@ -3,4 +3,5 @@ pandas
 numpy
 scikit-learn
 plotly
+lightgbm
 openpyxl # 添加这个，用于支持 .xlsx 文件
